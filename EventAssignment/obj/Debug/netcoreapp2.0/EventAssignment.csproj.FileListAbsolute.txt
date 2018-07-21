@@ -1,0 +1,14 @@
+C:\Users\Dhanusha.Kommineni\source\repos\EventAssignment\EventAssignment\obj\Debug\netcoreapp2.0\EventAssignment.csprojAssemblyReference.cache
+C:\Users\Dhanusha.Kommineni\source\repos\EventAssignment\EventAssignment\obj\Debug\netcoreapp2.0\EventAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Dhanusha.Kommineni\source\repos\EventAssignment\EventAssignment\obj\Debug\netcoreapp2.0\EventAssignment.AssemblyInfoInputs.cache
+C:\Users\Dhanusha.Kommineni\source\repos\EventAssignment\EventAssignment\obj\Debug\netcoreapp2.0\EventAssignment.AssemblyInfo.cs
+C:\Users\Dhanusha.Kommineni\source\repos\EventAssignment\EventAssignment\bin\Debug\netcoreapp2.0\EventAssignment.deps.json
+C:\Users\Dhanusha.Kommineni\source\repos\EventAssignment\EventAssignment\bin\Debug\netcoreapp2.0\EventAssignment.runtimeconfig.json
+C:\Users\Dhanusha.Kommineni\source\repos\EventAssignment\EventAssignment\bin\Debug\netcoreapp2.0\EventAssignment.runtimeconfig.dev.json
+C:\Users\Dhanusha.Kommineni\source\repos\EventAssignment\EventAssignment\bin\Debug\netcoreapp2.0\EventAssignment.dll
+C:\Users\Dhanusha.Kommineni\source\repos\EventAssignment\EventAssignment\bin\Debug\netcoreapp2.0\EventAssignment.pdb
+C:\Users\Dhanusha.Kommineni\source\repos\EventAssignment\EventAssignment\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\Dhanusha.Kommineni\source\repos\EventAssignment\EventAssignment\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\Dhanusha.Kommineni\source\repos\EventAssignment\EventAssignment\obj\Debug\netcoreapp2.0\EventAssignment.csproj.CopyComplete
+C:\Users\Dhanusha.Kommineni\source\repos\EventAssignment\EventAssignment\obj\Debug\netcoreapp2.0\EventAssignment.dll
+C:\Users\Dhanusha.Kommineni\source\repos\EventAssignment\EventAssignment\obj\Debug\netcoreapp2.0\EventAssignment.pdb
